@@ -19,7 +19,7 @@ export default function HeroSection() {
           <div>
             <Badge
               variant="outline"
-              className="bg-black/40 backdrop-blur-sm px-6 py-4 rounded-full border-gray-700/50 mb-6 lg:mb-8 text-gray-300 font-medium text-sm tracking-wider uppercase hover:bg-black/60 transition-colors"
+              className="bg-white/10 backdrop-blur-sm px-6 py-4 rounded-full border-gray-700/50 mb-6 lg:mb-8 text-gray-300 font-medium text-sm tracking-wider uppercase hover:bg-black/60 transition-colors"
             >
               WHAT WE DO
             </Badge>

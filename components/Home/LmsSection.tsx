@@ -14,7 +14,7 @@ const courses = [
 
 export default function LmsSection() {
   return (
-    <section className="w-full py-16 md:py-24 bg-[#f6e5f4] mt-4">
+    <section className="w-full py-16 md:py-24 bg-[#5712441A] mt-4">
       <BaseLayout>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
           <div className="relative flex justify-center lg:justify-start">
