@@ -28,7 +28,6 @@ export default function RootLayout({
         <Nav />
         <main className="flex-grow">{children}</main>
         <Footer/>
-        {/* Footer stays untouched / placeholder */}
       </body>
     </html>
   );

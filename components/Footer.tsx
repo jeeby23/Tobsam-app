@@ -13,7 +13,8 @@ export const Footer = () => {
   ];
 
   return (
-    <footer className="w-full bg-[#0F020F] pt-[80px] pb-[40px] px-6 md:px-[80px]">
+    
+    <footer className="w-full bg-[#0F020F] pt-[80px] pb-[40px] px-6 md:px-[80px] border-t">
       <BaseLayout>
         <div>
           <div className="grid grid-cols-1 gap-12 lg:grid-cols-[1.5fr_1fr_1fr_1.2fr] mb-[80px]">

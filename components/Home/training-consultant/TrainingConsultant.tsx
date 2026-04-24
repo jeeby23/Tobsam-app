@@ -48,7 +48,7 @@ export default function TrainingConsultant() {
             </p>
           </div>
 
-          <div className="mb-10 rounded-[8px] bg-[#5C164E] p-8 md:p-10 lg:px-[60px] lg:py-[50px]">
+          <div className="mb-10 rounded-[8px] bg-[#5C164E] p-8 md:p-10 lg:px-[60px] lg:py-[50px] min-h-[254px]">
             <div className="grid grid-cols-1 gap-x-20 gap-y-10 md:grid-cols-2">
               {features.map((feature, index) => (
                 <ConsultantFeature
