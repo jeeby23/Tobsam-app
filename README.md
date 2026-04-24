@@ -1,5 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+TThis is a production-ready implementation of the Tobams Group Design as part of the Frontend Intern Assessment.
 
+🚀 Live Deployment
+URL: https://tobsam-app.vercel.app/
+
+🛠️ Tech Stack
+Framework: Next.js 14 (App Router)
+
+Styling: Tailwind CSS
+
+Components: shadcn/ui
+
+Icons: Lucide React
+
+Slider Engine: Embla Carousel
+
+Language: TypeScript
 ## Getting Started
 
 First, run the development server:
